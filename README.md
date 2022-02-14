@@ -1,4 +1,4 @@
-# gittry
+# artcreate
 ## This is a project description file for MATH 348 Art Create Project:
 ## Team members: Isaac Tjandra, Irina Beshentseva, Mart Niehoff, Minh Pham.
 ## Emails: tjandra1@kenyon, beshentseva2@kenyon.edu, niehoff1@kenyon.edu, pham2@kenyon.edu.
